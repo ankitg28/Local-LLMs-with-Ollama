@@ -1,8 +1,14 @@
 # Running LLM Models Locally with Ollama
-![Ollama](path/to/your/repository/Ollama_image.jpg) <br>
-Unlock the Power of Local LLMs with Ollama Client - Quick &amp; Easy Setup!
-
-This guide will walk you through the process of setting up and running large language models (LLMs) on your local machine using the Ollama client. This example uses MacOS, but the steps are similar for other operating systems.
+<p align="center">
+  <img src="https://github.com/ankitg28/Local-LLMs-with-Ollama/blob/636a9565eca1f82735b00dbca1f0ac309cb623eb/Ollama_image.jpg" alt="Ollama" width="800" />
+<p align="center">
+  <strong>
+    <br>Unlock the Power of Local LLMs with Ollama Client - Quick &amp; Easy Setup!
+  </strong>
+</p>
+<p align="center" style="font-size: 20px;">
+  <br>This guide will walk you through the process of setting up and running large language models (LLMs) on your local machine using the Ollama client. This example uses MacOS, but the steps are similar for other operating systems.
+</p>
 
 ## Installation
 
