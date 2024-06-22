@@ -1,6 +1,6 @@
 # Running LLM Models Locally with Ollama
 <p align="center">
-  <img src="https://github.com/ankitg28/Local-LLMs-with-Ollama/blob/636a9565eca1f82735b00dbca1f0ac309cb623eb/Ollama_image.jpg" alt="Ollama" width="800" />
+  <img src="https://github.com/ankitg28/Local-LLMs-with-Ollama/blob/636a9565eca1f82735b00dbca1f0ac309cb623eb/Ollama_image.jpg" alt="Ollama" width="600" height="400" />
 <p align="center">
   <strong>
     <br>Unlock the Power of Local LLMs with Ollama Client - Quick &amp; Easy Setup!
